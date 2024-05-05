@@ -1,1 +1,1 @@
-# cc_ai
+# sppu cloud computing and Artifical inteligence pratical code cc_ai
